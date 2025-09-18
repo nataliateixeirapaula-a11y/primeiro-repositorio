@@ -1,9 +1,16 @@
 body {
-    background-color: burlywood;
-    color:brown
+    background-color: burlywood; /* cor de fundo de pagina */
+    color:brown  /*cor da escrita */
 }
 
 h1 {
-    font-size: 30px;
-    text-align: center;
+    font-size: 30px;     /* tamanho da fonte*/
+    text-align: center;  /* centralizado*/
+    text-transform: uppercase;  /*letras minusculas*/
 }
+
+p {
+    font-size: 16px;
+    color:bisque;
+}
+
