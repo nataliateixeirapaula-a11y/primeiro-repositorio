@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(179,8,8); /* cor de fundo de pagina */
+    background-color: rgb(167, 11, 11); /* cor de fundo de pagina */
     color:rgb(2, 9, 25)  /*cor da escrita */
 }
 
@@ -8,6 +8,18 @@ header{
     font-size: 32px;
     padding: 10px;
     color: rgb(17, 17, 14);
+}
+  
+section{
+    background-color:#f30f10 ;/*cor escolhida*/
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto{
+    margin-right:5%;
 }
 
 h1 {
