@@ -1,6 +1,6 @@
 body {
     background-color: rgb(167, 11, 11); /* cor de fundo de pagina */
-    color:rgb(2, 9, 25) ; /*cor da escrita */
+    color:rgb(10, 11, 12) ; /*cor da escrita */
     font-family:"Bitcount Prop Single Ink";
     margin: 0px;
     margin-bottom: 100px;
@@ -33,7 +33,7 @@ h1 {
 
 p {
     font-size: 16px;
-    color:rgb(27, 0, 90);
+    color:rgb(16, 15, 17);
 }
 
 .categoria{
@@ -55,7 +55,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid rgb(20, 0, 109)
+    border: 1px solid rgb(12, 12, 14)
 }
 
 .categoria h2{
